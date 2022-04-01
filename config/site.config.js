@@ -52,6 +52,10 @@ module.exports = {
       name: 'QQ',
       link: 'https://jq.qq.com/?_wv=1027&k=zLVg3w1E',
     },
+    {
+      name: '捐赠',
+      link: 'https://afdian.net/@chunk7',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to

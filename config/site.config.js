@@ -49,12 +49,17 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: '🗳 捐赠',
+      link: 'https://afdian.net/@chunk7',
+    },
+    {
       name: 'QQ',
       link: 'https://jq.qq.com/?_wv=1027&k=zLVg3w1E',
     },
+
     {
-      name: 'Donate',
-      link: 'https://afdian.net/@chunk7',
+      name: 'bilibili',
+      link: 'https://space.bilibili.com/2840677',
     },
   ],
 

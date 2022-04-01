@@ -53,7 +53,7 @@ module.exports = {
       link: 'https://jq.qq.com/?_wv=1027&k=zLVg3w1E',
     },
     {
-      name: '捐赠',
+      name: 'Donate',
       link: 'https://afdian.net/@chunk7',
     },
   ],

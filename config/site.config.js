@@ -42,7 +42,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: '',
+  email: 'chunk7w@outlook.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
@@ -57,7 +57,7 @@ module.exports = {
       link: 'https://jq.qq.com/?_wv=1027&k=zLVg3w1E',
     },
     {
-      name: 'bilibili',
+      name: 'Bilibili',
       link: 'https://space.bilibili.com/2840677',
     },
   ],
